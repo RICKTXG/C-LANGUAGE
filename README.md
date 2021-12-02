@@ -1,4 +1,4 @@
-# C-LANGUAGE<h3 align="left">Connect with me:</h3>
+# C-LANGUAGE<h3 align="left">this is my C program's repository.</h3>
 <p align="left">
 </p>
 
